@@ -35,8 +35,4 @@ Para cualquier consulta relacionada con esta licencia, por favor contacte a:
 
 Zapzonn
 
-Esta licencia está regida por las leyes aplicables en [jurisdicción] y cualquier disputa será sometida a la jurisdicción exclusiva de los tribunales de [jurisdicción].
-
----
-
-**Fecha de Última Actualización:** [Fecha de última actualización]
+**Fecha de Última Actualización:** [1/6/24]
